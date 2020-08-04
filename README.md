@@ -11,7 +11,7 @@ Para utilizar este proyecto desde Heroku solo necesitas tener un navegador web, 
 # Ejecutando las pruebas ⚙️
 Documentación de Postman.
 
-Link: 
+Link: https://documenter.getpostman.com/view/11716278/Szzj8xe4
 
 # Despliegue 📦
 Deployado con Heroku
